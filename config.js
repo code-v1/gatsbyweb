@@ -34,7 +34,7 @@ module.exports = {
       url: 'https://facebook.com/theanubhav',
     },
   ],
-  email: 'anubhav.srivastava00@gmail.com',
+  email: 'Marianna@daltonfirmpc.com ',
   phone: '000-00000',
-  address: '305 Del Sol, Sunnyvale, CA',
+  address: '17 Beach Plum Drive Centerport NY 11721',
 };

@@ -41,9 +41,8 @@ const IndexPage = () => (
           <div className="col-lg-8 mx-auto">
             <h2 className="text-white mb-4">Built with Bootstrap 4</h2>
             <p className="text-white-50">
-              Grayscale is a free Bootstrap theme created by Start Bootstrap. It
-              can be yours right now, simply download the starter on
-              <a href="https://github.com/anubhavsrivastava/gatsby-starter-grayscale">
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              <a href="">
                 the github repo
               </a>
               .
@@ -64,9 +63,9 @@ const IndexPage = () => (
             <div className="featured-text text-center text-lg-left">
               <h4>Shoreline</h4>
               <p className="text-black-50 mb-0">
-                Grayscale is open source and MIT licensed. This means you can
-                use it for any project - even commercial projects! Download it,
-                customize it, and publish your website!
+              Donec consequat lacus at tincidunt ultrices. Suspendisse potenti. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+               Nam pharetra a est sed gravida. Cras a placerat libero. Curabitur velit libero, accumsan id aliquam at, venenatis sed orci. 
+               Maecenas sit amet tortor arcu. Integer condimentum metus id sagittis consectetur.
               </p>
             </div>
           </div>
